@@ -1,0 +1,24 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": false,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+    "trades": true,
+    "looting": true
+  },
+  "tier": "advanced",
+  "element": "fire",
+  "type": "projectile",
+  "cost": 40,
+  "chargeup": 40,
+  "cooldown": 180,
+  "base_properties": {
+    "damage": 2000,
+    "range": 12,
+    "burn_duration": 5
+  }
+}

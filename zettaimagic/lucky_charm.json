@@ -1,0 +1,23 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": false,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+    "trades": false,
+    "looting": false
+  },
+  "tier": "master",
+  "element": "sorcery",
+  "type": "buff",
+  "cost": 100,
+  "chargeup": 0,
+  "cooldown": 36000,
+  "base_properties": {
+    "luck_duration": 24000,
+    "luck_strength": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": false,
+    "dispensers": true,
+    "commands": false,
+    "treasure": true,
+    "trades": true,
+    "looting": false
+  },
+  "tier": "apprentice",
+  "element": "magic",
+  "type": "buff",
+  "cost": 5,
+  "chargeup": 0,
+  "cooldown": 2,
+  "base_properties": {
+    "effect_radius": 6
+  }
+}

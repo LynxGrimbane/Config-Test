@@ -1,0 +1,24 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": false,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+    "trades": true,
+    "looting": true
+  },
+  "tier": "master",
+  "element": "fire",
+  "type": "projectile",
+  "cost": 250,
+  "chargeup": 70,
+  "cooldown": 420,
+  "base_properties": {
+    "explosion_power": 30,
+    "damage": 300,
+    "range": 40
+  }
+}

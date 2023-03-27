@@ -1,0 +1,21 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": true,
+    "dispensers": true,
+    "commands": false,
+    "treasure": true,
+    "trades": false,
+    "looting": false
+  },
+  "tier": "advanced",
+  "element": "healing",
+  "type": "buff",
+  "cost": 100,
+  "chargeup": 100,
+  "cooldown": 40,
+  "base_properties": {
+  }
+}
