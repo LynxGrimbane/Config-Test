@@ -1,0 +1,29 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": true,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+	"trades": true,
+    "looting": true
+  },
+  "tier": "novice",
+  "element": "earth",
+  "type": "attack",
+  "cost": 2,
+  "chargeup": 5,
+  "cooldown": 440,
+  "base_properties": {
+    "primary_damage": 56,
+    "secondary_damage": 45,
+    "tertiary_damage": 45,
+    "range": 5,
+    "secondary_range": 15,
+    "tertiary_range": 15,
+    "secondary_max_targets": 10,
+    "tertiary_max_targets": 10
+  }
+}

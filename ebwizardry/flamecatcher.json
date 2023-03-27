@@ -1,0 +1,26 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": true,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+	"trades": true,
+    "looting": true
+  },
+  "tier": "novice",
+  "element": "fire",
+  "type": "utility",
+  "cost": 6,
+  "chargeup": 8,
+  "cooldown": 1800,
+  "base_properties": {
+    "item_lifetime": 300,
+    "range": 80,
+    "shot_count": 1,
+    "damage": 570,
+    "burn_duration": 0
+  }
+}

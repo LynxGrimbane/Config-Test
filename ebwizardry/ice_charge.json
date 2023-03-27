@@ -1,0 +1,29 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": true,
+    "dispensers": true,
+    "commands": true,
+    "treasure": true,
+	"trades": true,
+    "looting": true
+  },
+  "tier": "novice",
+  "element": "ice",
+  "type": "projectile",
+  "cost": 6,
+  "chargeup": 15,
+  "cooldown": 200,
+  "base_properties": {
+    "range": 3,
+    "damage": 2,
+    "effect_radius": 5,
+    "direct_effect_duration": 40,
+    "direct_effect_strength": 1,
+    "splash_effect_duration": 40,
+    "splash_effect_strength": 0,
+    "ice_shards": 32
+  }
+}
