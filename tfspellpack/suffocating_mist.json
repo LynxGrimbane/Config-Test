@@ -1,0 +1,28 @@
+{
+	"enabled": {
+		"book": true,
+		"scroll": true,
+		"wands": true,
+		"npcs": true,
+		"dispensers": true,
+		"commands": true,
+		"treasure": true,
+		"trades": true,
+		"looting": true
+	},
+	"tier": "master",
+	"element": "lightning",
+	"type": "construct",
+	"cost": 10,
+	"chargeup": 20,
+	"cooldown": 3200,
+	"base_properties": {
+		"range": 30,
+		"duration": 500,
+		"damage": 5,
+		"effect_radius": 9,
+		"blindness_duration": 500,
+		"slowness_duration": 500,
+		"slowness_strength": 3
+	}
+}

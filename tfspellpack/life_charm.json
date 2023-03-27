@@ -1,0 +1,24 @@
+{
+	"enabled": {
+		"book": true,
+		"scroll": true,
+		"wands": true,
+		"npcs": true,
+		"dispensers": true,
+		"commands": true,
+		"treasure": true,
+		"trades": true,
+		"looting": true
+	},
+	"tier": "novice",
+	"element": "earth",
+	"type": "buff",
+	"cost": 2,
+	"chargeup": 5,
+	"cooldown": 100,
+	"base_properties": {
+		"regeneration_duration": 0,
+		"regeneration_strength": 0,
+		"health_level": 65
+	}
+}

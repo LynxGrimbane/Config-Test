@@ -1,0 +1,24 @@
+{
+	"enabled": {
+		"book": true,
+		"scroll": true,
+		"wands": true,
+		"npcs": true,
+		"dispensers": true,
+		"commands": true,
+		"treasure": true,
+		"trades": true,
+		"looting": true
+	},
+	"tier": "master",
+	"element": "lightning",
+	"type": "minion",
+	"cost": 10,
+	"chargeup": 30,
+	"cooldown": 6000,
+	"base_properties": {
+		"minion_lifetime": 2400,
+		"minion_count": 12,
+		"summon_radius": 10
+	}
+}

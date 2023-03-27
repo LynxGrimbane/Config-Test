@@ -1,0 +1,29 @@
+﻿{
+    "enabled": {
+        "book": true,
+        "scroll": true,
+        "wands": true,
+        "npcs": true,
+        "dispensers": true,
+        "commands": true,
+        "treasure": true,
+        "trades": true,
+        "looting": true
+    },
+    "tier": "novice",
+    "element": "earth",
+    "type": "projectile",
+    "cost": 6,
+    "chargeup": 6,
+    "cooldown": 280,
+    "base_properties": {
+        "range": 1,
+        "direct_damage": 57,
+        "splash_damage": 53,
+        "effect_radius": 5,
+        "direct_effect_duration": 300,
+        "direct_effect_strength": 0,
+        "splash_effect_duration": 200,
+        "splash_effect_strength": 0
+    }
+}
