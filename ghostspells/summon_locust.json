@@ -1,0 +1,24 @@
+{
+	"enabled": {
+		"book": true,
+		"scroll": false,
+		"wands": true,
+		"npcs": true,
+		"dispensers": true,
+		"commands": true,
+		"treasure": true,
+		"trades": true,
+		"looting": true
+	},
+	"tier": "advanced",
+	"element": "earth",
+	"type": "minion",
+	"cost": 125,
+	"chargeup": 0,
+	"cooldown": 1200,
+	"base_properties": {
+		"minion_lifetime": 1000,
+		"minion_count": 1,
+		"summon_radius": 3
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"enabled": {
+		"book": true,
+		"scroll": true,
+		"wands": true,
+		"npcs": false,
+		"dispensers": false,
+		"commands": false,
+		"treasure": true,
+		"trades": true,
+		"looting": true
+	},
+	"tier": "advanced",
+	"element": "sorcery",
+	"type": "utility",
+	"cost": 200,
+	"chargeup": 0,
+	"cooldown": 600,
+	"base_properties": 
+		{
+		"teleport_spawn_duration": 1200,
+		"teleport_spawn_strength": 0
+		}
+}
